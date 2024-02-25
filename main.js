@@ -5,7 +5,7 @@ const products = [
     image:
       'https://contents.mediadecathlon.com/p1343983/k$0ad88bf57a6268feb25c29984f138b17/sq/casco-equitacion-500-fouganza-negro.jpg?format=auto&f=800x0',
     name: 'Casco',
-    price: '80,00 €',
+    price: 80.00,
     description: 'Casco de equitación',
     stars: '3',
     reviews: '558',
@@ -15,7 +15,7 @@ const products = [
     image:
       'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQdcsk2tW4x17woW6l4JVcvrpeQtZ3qgWvBEDK3IRjVn0IvDV9JphODGpGYC8grypiXA4kohNSNVltQD0pbWywpJguiqypTbUspGwqeIumu1qrEsuQMKp3lXBoLcrd_2aqYX4lLicQeE60&usqp=CAc',
     name: 'Orejeras',
-    price: 20.0,
+    price: 20.00,
     description: 'Orejeras caballo',
     stars: '3',
     reviews: '17',
@@ -25,7 +25,7 @@ const products = [
     image:
       'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa15_FlA9_TV3cbiCx-wXMwXd2mJR0t4zjig&usqp=CAU',
     name: 'Camisa',
-    price: 60.0,
+    price: 60.00,
     description: 'Camisa equitación',
     stars: '4',
     reviews: '724',
@@ -35,7 +35,7 @@ const products = [
     image:
       'https://trancoatranco.tienda/10994-large_default/guantes-de-montar-de-cuero-y-malla-bordoni.jpg',
     name: 'Guantes',
-    price: '54,95 €',
+    price: 54.95,
     description: 'Guantes de montar de cuero',
     stars: '4',
     reviews: '1206',
@@ -45,7 +45,7 @@ const products = [
     image:
       'https://www.tot-cavall.com/media/catalog/product/cache/1/small_image/252x380/9df78eab33525d08d6e5fb8d27136e95/1/0/10625_1.jpg',
     name: 'Pantalón',
-    price: '75,00 €',
+    price: 75.00,
     description: 'Pantalón montar',
     stars: '5',
     reviews: '782',
@@ -55,7 +55,7 @@ const products = [
     image:
       'https://www.centralhipica.com/wp-content/uploads/2016/07/italia1.jpg',
     name: 'Botas',
-    price: '199,50 €',
+    price: 199.50,
     description: 'Botas montar cuero sin cordones',
     stars: '5',
     reviews: '1965',
@@ -65,7 +65,7 @@ const products = [
     image:
       'https://www.horze.es/dw/image/v2/AATB_PRD/on/demandware.static/-/Sites-main-catalog/default/dw73cf672e/horze/14270_BL_1.jpg?sw=535&q=55&filename=montura-de-cuero-de-uso-general-horze-negro.jpg',
     name: 'Montura',
-    price: '241,99 €',
+    price: 241.99,
     description: 'Montura de cuero de uso general',
     stars: '5',
     reviews: '38',
@@ -74,7 +74,7 @@ const products = [
   {
     image: 'https://alogo.es/wp-content/uploads/2021/08/210191100203_01-1.jpg',
     name: 'Cabezadas con riendas',
-    price: '89,00 €',
+    price: 89.00,
     description: 'Cabezada con riendas de cuero',
     stars: '5',
     reviews: '96',
@@ -84,7 +84,7 @@ const products = [
     image:
       'https://www.horze.es/dw/image/v2/AATB_PRD/on/demandware.static/-/Sites-main-catalog/default/dwda4bccc3/horseware/YFVQS_099_01.jpg?sw=535&q=55&filename=chaqueta-de-concurso-para-mujer-aa-motionlite-black.jpg',
     name: 'Chaqueta de concurso',
-    price: '129,99 €',
+    price: 129.99,
     description: 'Chaqueta de concurso equitación',
     stars: '5',
     reviews: '67',
@@ -94,7 +94,7 @@ const products = [
     image:
       'https://media.galope-store.es/catalog/product/cache/image/1800x/9df78eab33525d08d6e5fb8d27136e95/9/1/91310720.jpg',
     name: 'Polainas cuero',
-    price: '45,00 €',
+    price: 45.00,
     description: 'Polainas de cuero con forro elástico',
     stars: '5',
     reviews: '67',
@@ -104,7 +104,7 @@ const products = [
     image:
       'https://ae01.alicdn.com/kf/S4d012ce3f5074b4586efc4b0fa875a20h/Mallas-protectoras-de-patas-de-caballo-equipo-de-protecci-n-de-caballo-grande-y-poni-leggings.jpg_80x80.jpg_.webp',
     name: 'Protectores',
-    price: '45,75 €',
+    price: 45.75,
     description: 'Mallas protectoras caballos',
     stars: '5',
     reviews: '15',
@@ -114,7 +114,7 @@ const products = [
     image:
       'https://www.horze.es/dw/image/v2/AATB_PRD/on/demandware.static/-/Sites-main-catalog/default/dw50e6ce59/sprenger/39822_SI_BL_1.jpg?sw=535&q=55&filename=sprenger-spurs-ultra-ajuste-agarre-extra-silver-black.jpg',
     name: 'Espuelas',
-    price: '53,90 €',
+    price: 53.90,
     description: 'Espuelas de acerto con agarre extra',
     stars: '5',
     reviews: '129',
